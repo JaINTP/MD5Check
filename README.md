@@ -1,3 +1,5 @@
+# OUTDATED AND NO LONGER WORKS!
+
 # MD5Check
 Basic MD5 cracking application.
 Supports dictionary, bruteforce and ODS(Online Database Search) methods.
